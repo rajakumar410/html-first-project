@@ -1,0 +1,148 @@
+<html>
+ <head>   
+    <title>portfolio website</title>
+</head>
+<body><h1>1.Header section</h1>
+    <ul>
+          <li>website title</li>
+          <li>navigation menu with links</li>
+   </ul>
+    <header>Example menu:
+    <nav>
+          <ul>
+              <li><a herf="HOME">HOME</a></li>
+              <li><a herf="About">About</a></li>
+               <li><a herf="Skills">Skills</a> </li>
+                <li><a herf="Projects">Projects</a></li>
+                <li><a herf="Contact">Contact</a>  </li>
+                </ul>
+            </nav>
+      </header> 
+              <h1>2. About Me section </h1>
+              <ul>
+                 <li>profile image</li>
+                  <li>Name</li>
+                  <li>short introduction</li>
+                  <secction> 
+                    <p>my name is raja kumar.I am currently pursing BCA 3rd year student in arcade business college form ppu.
+                        my skills is ,html ,css ,js,c ,c++,java.</p>
+                      <img scr="https://www.google.com/imgres?q=notebook&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61m5H1fYccL._AC_UF1000%2C1000_QL80_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.in%2FNotebook-Journal-Supplies-Notebooks-Aesthetic%2Fdp%2FB0B8H995ZV&docid=wE_nbadAq_YqlM&tbnid=7QcV3I3K4dGVwM&vet=12ahUKEwia7Yed5JyVAxUoT2wGHaWNNw8QnPAOegQIJBAB..i&w=1000&h=893&hcb=2&ved=2ahUKEwia7Yed5JyVAxUoT2wGHaWNNw8QnPAOegQIJBAB">
+                  </secction> 
+                   <h1>3.skills section</h1>
+                     <ul>
+                         <li>unordered list of technical</li>
+                           <li>ordered list of learn gols</li>
+                       </ul>
+       <header>Example:</header>          
+             <ul>
+                  <li>html</li>
+                  <li>css</li>
+              </ul>  
+        <ol>
+             <li>learn css</li>
+             <li>learn javascript</li>
+           </ol>    
+           <h1>4. Eduction table</h1>
+      <header>create a table with: </header>
+         <table border="1">
+             <tr>
+                 <th>year</th>
+                 <th> course</th>
+                 <th> institute</th>
+                 <th>percentage</th>
+            </tr>
+                   <tr>
+                    <td>2024</td>
+                    <td>BCA</td>
+                     <td>arcade</td>
+                     <td>75%</td>
+                   </tr>  
+                         <tr>
+                              <td>2025</td>
+                              <td>BCA</td>
+                                <td>arcade</td>
+                                <td> 65%</td>
+                        </tr>
+                             <tr>
+                                 <td>2026</td>
+                                  <td>BBA</td>
+                                  <td>arcade</td>
+                                   <td>80%</td>
+                               </tr>
+
+          </table>
+            <h1>5. projects section</h1>
+ <header>for each projet:</header>
+               <ul>
+                  <li>project name</li>
+                   <li>description</li>
+                   <li>technologies used</li>
+                   <article> my story</article>
+                   <p>loermloermloermloermloermloerm</p>
+          <h1>6.medio section</h1>
+          <!-- meadia seaction -->
+           <header>add:</header>
+                <ul>
+                    <li>one image</li>
+                    <li>one audio file</li>
+                    <li>one video file</li>
+
+                </ul> 
+                <hr>
+                <section>
+                    <h2>
+                        meadia section
+                    </h2>
+                    <h3> image</h3>
+                    <img scr ="https://www.google.com/imgres?q=dog&imgurl=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod%2Fimages%2Fdog-puppy-on-garden-royalty-free-image-1586966191.jpg%3Fcrop%3D0.752xw%3A1.00xh%3B0.175xw%2C0%26resize%3D1200%3A*&imgrefurl=https%3A%2F%2Fwww.goodhousekeeping.com%2Flife%2Fpets%2Fg4531%2Fcutest-dog-breeds%2F&docid=2r6Arj4-hBjhNM&tbnid=Zcg-2Pqp8jFSiM&vet=12ahUKEwiCyqTI4pyVAxW_rZUCHd4MEtQQnPAOegQIFBAB..i&w=1200&h=1197&hcb=2&ved=2ahUKEwiCyqTI4pyVAxW_rZUCHd4MEtQQnPAOegQIFBAB">
+                     <h3> audio </h3>
+                     <audio controls>
+                        <source scr="audio.mp3"type="audio/mpeg">
+                     </audio>
+                     <h3> video</h3>
+                     <video width="300"controls></video>
+
+                    
+                </section>
+
+                
+             <h2>7.Registration form<h2>
+            <header>create a form containing</header>
+            <form>
+                  <input type="text" placeholder="enter name">
+                  <br>
+                  <input type="text" placeholder="email">
+                  <br>
+                  <input type="text" placeholder="phone no"> 
+                  <br>
+            <label >
+                   <input type="radio"  name="gender">male
+                   <input type="radio" name="gender">female
+                   <br>
+                   <input type="date">
+                   <br>
+                   <input type="check box">html
+                   <input type="check box">c++
+                   <input type="check box">java
+              </label>
+              <br></br>
+              <select name="city">
+                <option>patna</option>
+                <br>
+                <option>delhi</option>
+                <br>
+                <option>ranchi</option>
+                </select>
+                <br>
+                <input type="submit"> 
+                <br>
+              </form>
+              <footer id="contant">
+                <h3>contant</h3>
+                <p>email:rajakumarbihta396@gmail.com</p>
+                <p >phone no: 9060951409</p>
+</footer>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uswpOpyqvww?si=ed_VTiJh1dOjgGpx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</body>
+</html>
